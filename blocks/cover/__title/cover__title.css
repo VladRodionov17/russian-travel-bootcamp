@@ -3,8 +3,9 @@
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-    color: #FFFFFF;
     max-width: 560px;
+    color: white;
+    font-family: "Inter-Black";
     z-index: 2;
 }
 
@@ -23,15 +24,20 @@
 
 @media (max-width: 650px) {
     .cover__title {
+        max-width: 300px;
         margin-top: 100px;
-        font-size: 32px;
+        font-size: 38px;
         line-height: 35px;
+        line-height: 40px;
     }
 }
 
 @media (max-width: 320px) {
     .cover__title {
-        margin-top: 32px;
+        max-width: 248px;
+        margin-top: 33px;
         margin-bottom: 16px;
+        font-size: 32px;
+        line-height: 35px;
     }
 }

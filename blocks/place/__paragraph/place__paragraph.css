@@ -13,6 +13,8 @@
 
 @media (max-width: 650px) {
     .place__paragraph {
-        margin-left: 16px;
+        max-width: calc(100% - 32px);
+        margin-left: auto;
+        margin-right: auto;
     }
 }

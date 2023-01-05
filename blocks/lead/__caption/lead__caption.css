@@ -8,6 +8,8 @@
     letter-spacing: 1.5px;
     display:flex;
     margin-right: auto;
+    color: white;
+    font-family: "Inter-Regular";
 }
 
 @media (max-width: 768px) {
