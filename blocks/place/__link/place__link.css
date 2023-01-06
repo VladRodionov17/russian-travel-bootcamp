@@ -3,11 +3,11 @@
     color: #FFFFFF;
     font-weight: 400;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 122%;
     transition: 0.4s;
 }
 
 .place__link:hover {
-    opacity: 0.4;
+    opacity: 0.8;
     transition: 0.4s;
 }

@@ -9,22 +9,8 @@
 
 }
 
-@media (max-width: 1024px) {
-    .cover__subtitle {
-
-    }
-}
-
-
-@media (max-width: 768px) {
-    .cover__subtitle {
-
-    }
-}
-
 @media (max-width: 650px) {
     .cover__subtitle {
-        font-size: 18px;
         line-height: 20px;
     }
 }

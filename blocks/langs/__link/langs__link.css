@@ -1,7 +1,6 @@
 .langs__link {
     text-decoration: none;
     color: white;
-    font-family: "Inter-Regular";
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -10,7 +9,7 @@
 }
 
 .langs__link:hover {
-    opacity: 0.4;
+    opacity: 0.8;
     transition: 0.4s;
 }
 

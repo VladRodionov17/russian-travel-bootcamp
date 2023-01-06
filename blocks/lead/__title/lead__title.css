@@ -2,17 +2,32 @@
     max-width: 720px;
     font-size: 96px;
     line-height: 100px;
+    font-weight: 900;
     margin-top: 0;
     margin-bottom: 32px;
     text-align: center;
     color: white;
-    font-family: "Inter-Black";
 }
 
 @media (max-width: 768px){
     .lead__title {
         max-width: calc(100% - 48px);
-        font-size: 12vw;
+    }
+}
+
+@media (max-width: 720px){
+    .lead__title {
+        max-width: 460px;
+        font-size: 67px;
+    }
+}
+
+@media (max-width: 500px){
+    .lead__title {
+        max-width: 320px;
+        font-size: 45px;
+        line-height: 60px;
+
     }
 }
 
