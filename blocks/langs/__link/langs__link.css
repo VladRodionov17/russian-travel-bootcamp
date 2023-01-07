@@ -10,7 +10,6 @@
 
 .langs__link:hover {
     opacity: 0.8;
-    transition: 0.4s;
 }
 
 @media (max-width: 320px) {
